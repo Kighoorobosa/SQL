@@ -1,11 +1,10 @@
 # Global Land Analysis - An SQL Report
 
 ## Introduction
-This is an SQL project on global land analysis of an dummy datasets called **Lands**.
-The project is to provide insight in to how land and forest has evolved over time.
+This SQL project focuses on analyzing global land data from a fictional dataset named **Lands**.
+The objective is to gain insights into the historical evolution of land and forest coverage worldwide.
 
-**_Disclaimer_**: _All datasets and reports do not represent any country, region, or lands but are just a dummy dataset to demonstrate the capabilities of SQL in data analysis._
-
+**_Disclaimer_**:_The datasets and reports provided in this repository are purely fictitious and do not correspond to any real countries, regions, or land areas. They have been created solely for the purpose of demonstrating the capabilities of SQL in data analysis_.
 ## Problem statement
 1.What are the total number of countries involved in deforestation?
 
