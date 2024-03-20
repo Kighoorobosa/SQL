@@ -50,7 +50,6 @@ Relevant Information: This dataset provides contextual information about countri
 
 ## Analysis Questions And Answers
 1.What are the total number of countries involved in deforestation?
-
 ![](Analysis_1.jpg)
 
 
