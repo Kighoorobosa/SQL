@@ -50,7 +50,7 @@ Relevant Information: This dataset provides contextual information about countri
 
 ## Analysis Questions And Answers
 1.What are the total number of countries involved in deforestation?
-![image](https://github.com/Kighoorobosa/SQL/assets/159533793/47aa9b7c-096b-4b4d-a6eb-2e98e186196a)
+![](Analysis 1.jpg)
 
 
 2.Show the income groups of countries having total area ranging from 75,000 to 150,000 square meter?
