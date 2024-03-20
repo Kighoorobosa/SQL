@@ -5,7 +5,13 @@ This SQL project focuses on analyzing global land data from a fictional dataset 
 The objective is to gain insights into the historical evolution of land and forest coverage worldwide.
 
 **_Disclaimer_**:_The datasets and reports provided in this repository are purely fictitious and do not correspond to any real countries, regions, or land areas. They have been created solely for the purpose of demonstrating the capabilities of SQL in data analysis_.
-## Problem statement
+
+## Dataset Description
+### Forest_Area Dataset:
+Structure: The Forest_Area dataset contains information about forest area in square kilometers for various countries and years.
+
+
+## Analysis Questions
 1.What are the total number of countries involved in deforestation?
 
 2.Show the income groups of countries having total area ranging from 75,000 to 150,000 square meter?
