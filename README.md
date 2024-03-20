@@ -10,7 +10,7 @@ The objective is to gain insights into the historical evolution of land and fore
 #### Forest_Area Dataset:
 Structure: The Forest_Area dataset contains information about forest area in square kilometers for various countries and years.
 
-Columns
+**Columns**
 
 country_code: The country code uniquely identifying each country.
 
@@ -24,7 +24,7 @@ Relevant Information: This dataset provides insights into the extent of forest c
 #### Land_Area Dataset:
 Structure: The Land_Area dataset contains information about total land area in square miles for different countries.
 
-Columns
+**Columns**
 
 country_code: The country code uniquely identifying each country.
 
@@ -36,7 +36,7 @@ Relevant Information: This dataset provides data on the total land area of each 
 #### Region Dataset:
 Structure: The Region dataset contains additional information about countries, such as their income group and region.
 
-Columns
+**Columns**
 
 country_code: The country code uniquely identifying each country.
 
