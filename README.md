@@ -91,7 +91,7 @@ The following SQL skills were incorporated:
 -Data Visualization
 
 ## Visualization
-You can interact with the report [HERE](https://github.com/Kighoorobosa/SQL/blob/main/SQLQuery1.sql)
+You can view the SQL codes [HERE](https://github.com/Kighoorobosa/SQL/blob/main/SQLQuery1.sql)
 
 
 ## Conclusion
