@@ -48,7 +48,7 @@ income_group: The income group classification of the country.
 
 Relevant Information: This dataset provides contextual information about countries, including their regional affiliations and income group classifications, which can help analyze socioeconomic factors related to land use.
 
-## Analysis Questions
+## Analysis Questions And Answers
 1.What are the total number of countries involved in deforestation?
 
 2.Show the income groups of countries having total area ranging from 75,000 to 150,000 square meter?
