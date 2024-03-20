@@ -50,23 +50,28 @@ Relevant Information: This dataset provides contextual information about countri
 
 ## Analysis Questions And Answers
 1.What are the total number of countries involved in deforestation?
+
 ![](ANALYSIS_1.jpg)
 
 
 2.Show the income groups of countries having total area ranging from 75,000 to 150,000 square meter?
-![image](https://github.com/Kighoorobosa/SQL/assets/159533793/c9e48274-3e66-4ff7-87af-094809b4dce7)
+
+![](ANALYSIS_2.jpg)
 
 
 3.Calculate average area in square miles for countries in the 'upper middle income region'. Compare the result with the rest of the income categories.
-![image](https://github.com/Kighoorobosa/SQL/assets/159533793/5dafcea0-720c-491d-829e-6ca5d57c5a32)
+
+![](ANALYSIS_3.jpg)
 
 
 4.Determine the total forest area in square km for countries in the 'high income' group. Compare result with the rest of the income categories.
-![image](https://github.com/Kighoorobosa/SQL/assets/159533793/b0237a44-bbbd-4ee7-93e1-00fa53f8a1a8)
+
+![](ANALYSIS_4.jpg)
 
 
 5.Show countries from each region(continent) having the highest total forest areas.
-![image](https://github.com/Kighoorobosa/SQL/assets/159533793/10613efb-8e1f-4995-b3a8-3e8f91096d2a)
+
+![](ANALYSIS_5.jpg)
 
 ## Skills
 The following SQL skills were incorporated:
