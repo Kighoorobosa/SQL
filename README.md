@@ -80,6 +80,19 @@ The following SQL skills were incorporated:
 You can interact with the report [HERE](https://github.com/Kighoorobosa/SQL/blob/main/SQLQuery1.sql)
 
 
+## SQL Queries for Analysis
+
+### Query 1: Total Number of Countries Involved in Deforestation
+
+This query calculates the total number of countries involved in deforestation by counting countries with positive forest area values.
+
+```sql
+SELECT COUNT(DISTINCT country_code) AS total_countries_involved
+FROM Forest_Area
+WHERE forest_area_sqkm > 0;
+
+
+
 ## Conclusion
 In conclusion, the insights gained from the SQL analysis underscore the importance of data-driven approaches in understanding and addressing global land management issues.
 By leveraging the power of data analytics, policymakers and stakeholders can make informed decisions and take proactive measures to promote sustainable land use and conservation practices worldwide.
