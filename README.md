@@ -18,6 +18,7 @@ The objective is to gain insights into the historical evolution of land and fore
 
 ## Skills
 The following SQL skills were incorporated:
+
 -Data Retrieval
 
 -Data Aggregation
