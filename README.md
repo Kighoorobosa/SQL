@@ -75,3 +75,6 @@ The following SQL skills were incorporated:
 -Subqueries
 
 -Data Visualization
+
+## Visualization
+You can interact with the report 
