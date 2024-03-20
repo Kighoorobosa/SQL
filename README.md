@@ -7,9 +7,29 @@ The objective is to gain insights into the historical evolution of land and fore
 **_Disclaimer_**:_The datasets and reports provided in this repository are purely fictitious and do not correspond to any real countries, regions, or land areas. They have been created solely for the purpose of demonstrating the capabilities of SQL in data analysis_.
 
 ## Dataset Description
-##### Forest_Area Dataset:
+#### Forest_Area Dataset:
 Structure: The Forest_Area dataset contains information about forest area in square kilometers for various countries and years.
-
+Columns:
+country_code: The country code uniquely identifying each country.
+country_name: The name of the country.
+year: The year for which the forest area data is recorded.
+forest_area_sqkm: The forest area in square kilometers for the corresponding year and country.
+Relevant Information: This dataset provides insights into the extent of forest coverage across different countries over time.
+#### Land_Area Dataset:
+Structure: The Land_Area dataset contains information about total land area in square miles for different countries.
+Columns:
+country_code: The country code uniquely identifying each country.
+country_name: The name of the country.
+total_area_sq_mi: The total land area in square miles for the corresponding country.
+Relevant Information: This dataset provides data on the total land area of each country, which is essential for analyzing land use patterns and trends.
+#### Region Dataset:
+Structure: The Region dataset contains additional information about countries, such as their income group and region.
+Columns:
+country_code: The country code uniquely identifying each country.
+country_name: The name of the country.
+region: The region to which the country belongs.
+income_group: The income group classification of the country.
+Relevant Information: This dataset provides contextual information about countries, including their regional affiliations and income group classifications, which can help analyze socioeconomic factors related to land use.
 
 ## Analysis Questions
 1.What are the total number of countries involved in deforestation?
